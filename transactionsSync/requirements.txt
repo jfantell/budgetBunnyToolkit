@@ -1,0 +1,7 @@
+openpyxl
+plaid-python
+pandas
+numpy
+pymysql
+jupyterlab
+python-dotenv

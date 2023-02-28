@@ -11,3 +11,5 @@ I've got big ideas for this repo, but for now it contains the following:
 3. `databaseSchema`: The schema used to create the database used by the SQL and Python scripts
 4. `server`: A Node.js server that serves as an API for a dashboard
 5. `dashboard`: A TypeScript React dashboard with a D3.js "burnup chart" of actual vs estimated expenses
+
+This repo requires access to the [Plaid Developer API](https://plaid.com/docs/api/).
